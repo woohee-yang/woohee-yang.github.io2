@@ -1,6 +1,6 @@
 ---
 title: "Temporal Reduction with I3D" ## 포스트 제목
-category:       
+categories:       
     - Project
 tags:
     - I3D
@@ -26,9 +26,9 @@ toc: true
 
 ## 3. 연구 일지
 
-[2020.02.01 : 연구일지]({% link _posts/2020-02-01-연구일지2.md %})
+<!-- [2020.02.01 : 연구일지]({% link _posts/2020-02-01-연구일지2.md %})
 
-[2020.02.02 : 연구일지]({% link _posts/2020-02-02-연구일지.md %})
+[2020.02.02 : 연구일지]({% link _posts/2020-02-02-연구일지.md %}) -->
 <!-- 
 [2020.02.03 : 연구일지]({% link _posts/2020-02-03-연구일지3.md %})
 

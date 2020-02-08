@@ -1,6 +1,6 @@
 ---
 title:          "Curse of Dimensionality" ## 포스트 제목
-category:       
+categories:       
     - Basic
 tags:           
     - dimensionality

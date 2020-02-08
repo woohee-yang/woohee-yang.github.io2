@@ -1,6 +1,6 @@
 ---
 title: "Dimensionality Reduction" ## 포스트 제목
-category:       
+categories:       
     - Basic
 tags:           
     - dimensionality
