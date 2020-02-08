@@ -34,17 +34,18 @@ $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
 
 /* type scale */
-$type-size-1: 2.441em !default; // ~39.056px
-$type-size-2: 1.953em !default; // ~31.248px
+$type-size-1: 2.44em !default; // ~39.056px
+$type-size-2: 5em !default; // ~31.248px
 $type-size-3: 1.563em !default; // ~25.008px
-$type-size-4: 1.25em !default; // ~20px
+$type-size-4: 1.2em !default; // ~20px
 $type-size-5: 1em !default; // ~16px
 $type-size-6: 0.75em !default; // ~12px
-$type-size-7: 0.6875em !default; // ~11px
-$type-size-8: 0.625em !default; // ~10px
+$type-size-7: 0.7em !default; // ~11px
+$type-size-8: 0.68em !default; // ~10px
 
 /*
    Colors
+   $light-gray
    ========================================================================== */
 
 $gray: #7a8288 !default;
@@ -54,9 +55,9 @@ $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
 $background-color: #fff !default;
-$code-background-color: #fafafa !default;
-$code-background-color-dark: $light-gray !default;
-$text-color: $dark-gray !default;
+$code-background-color: #9ed3ff !default;
+$code-background-color-dark: #9ed3ff !default;
+$text-color: #008cff !default;
 $muted-text-color: mix(#fff, $text-color, 35%) !default;
 $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
@@ -128,15 +129,15 @@ $base0d: #82aaff !default;
 $base0e: #c792ea !default;
 $base0f: #ff5370 !default;
 
-/*
+/* 768 900
    Breakpoints
    ========================================================================== */
 
-$small: 600px !default;
-$medium: 768px !default;
-$medium-wide: 900px !default;
-$large: 1024px !default;
-$x-large: 1280px !default;
+$small: 1000px !default;
+$medium: 1100px !default;
+$medium-wide: 1200px !default;
+$large: 1300px !default;
+$x-large: 1400px !default;
 $max-width: $x-large !default;
 
 /*
