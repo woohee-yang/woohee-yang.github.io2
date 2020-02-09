@@ -5,8 +5,6 @@ category:
 tags:
     - I3D
     - temporal reduction          
-projects:
-    - Temporal Reduction with I3D         
 last_modified_at : 2020-02-02 02:40:00
 toc: true
 ---
