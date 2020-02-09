@@ -1,6 +1,6 @@
 ---
 title: "Temporal Reduction with I3D" ## 포스트 제목
-category:       
+categories:       
     - Project
 tags:
     - I3D
