@@ -7,7 +7,6 @@ tags:
     - kernel
     - dll
 last_modified_at : 2020-02-03 12:40:00
-published: false
 ---
 
 ## Jupyter Notebook에서 만난 커널 에러 리포트
@@ -42,5 +41,5 @@ python -m ipykernel install --user --name <kernel> --display-name <kernel_name> 
 
 3. ipykernel 개념 모르쥬? kernel이 뭘 의미하는지 대략적으로 이제 파악 -> 실행할 수 있는 환경 자체를 말하는듯
 
-이게 새로 만든 환경을 기반으로 만들어져야하는데 그걸 무시하고 계속 base로 만들었으니 이 사달이지 멍청아^^
+이게 새로 만든 환경을 기반으로 만들어져야하는데 그걸 무시하고 계속 base로 만들었으니.......^^
 
